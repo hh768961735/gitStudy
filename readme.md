@@ -4,4 +4,6 @@ Git tracks changes.
 Git tracks changes.
 Git tracks changes.
 
-ddcc
+
+Creating a new branch is quick AND simple.
+
